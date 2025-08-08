@@ -1,1 +1,4 @@
-{ "timestamp": "2025-08-08T10:00:00Z", "event_type": "ERROR" }
+{ 
+    "timestamp": "2025-08-08T10:00:00Z", 
+    "event_type": "ERROR" 
+}

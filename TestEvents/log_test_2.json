@@ -1,1 +1,5 @@
-{ "timestamp": "2025-08-08T10:01:00Z", "event_type": "INFO", "description": "Server restarted" }
+{ 
+    "timestamp": "2025-08-08T10:01:00Z", 
+    "event_type": "INFO", 
+    "description": "Server restarted" 
+}
